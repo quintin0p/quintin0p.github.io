@@ -128,5 +128,22 @@ h3 {
     background-color: #fff;
     display: inline-block;
     border: 1px solid #d8e0e8;
-    border-radius: 2px;
+    border-radius: 999px;
+}
+
+.rodape {
+    margin-top: 40px;
+    padding: 25px;
+    color:#354863 ;
+    
+    background-color:aliceblue;
+    text-align: center;
+}
+
+.rodape address {
+    font-style: normal;
+}
+
+.rodape a{
+    text-decoration: none;
 }
