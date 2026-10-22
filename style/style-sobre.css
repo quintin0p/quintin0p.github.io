@@ -2,7 +2,7 @@
     width: 100%;
 
     border-collapse: collapse;
-    background-color: aliceblue;
+    background-color:#dbe2ea;
 }
 
 .tabela-conhecimentos caption{
@@ -25,7 +25,7 @@
 }
 
 .tabela-conhecimentos thead{
-    background-color: #fbfedb;
+    background-color: #f1f5f9;
 }
 
 .tabela-conhecimentos tfoot{
