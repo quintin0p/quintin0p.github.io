@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background-color: #e4e9ef;
+    background-color: aliceblue;
     color: darkslategray;
 
     font-family:Arial, Helvetica, sans-serif;
@@ -37,8 +37,8 @@ h3 {
 }
 
 .cabecalho {
-    background-color: #354863;
-    color: white;
+    background-color: #555a62;
+    color: aliceblue;
 
     padding: 30px 0;
 }
@@ -90,7 +90,7 @@ h3 {
 
 
 .secao {
-    padding: 72px 0;
+    padding: 72px;
 }
 
 .titulo-secao {
@@ -136,7 +136,7 @@ h3 {
     padding: 25px;
     color:#354863 ;
     
-    background-color:aliceblue;
+    background-color:white;
     text-align: center;
 }
 
